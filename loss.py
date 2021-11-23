@@ -1,8 +1,8 @@
 from config import *
 
-class HashNCA(nn.Module):
+class HashProxy(nn.Module):
     def __init__(self, temp):
-        super(HashNCA, self).__init__()
+        super(HashProxy, self).__init__()
         self.temp = temp
 
     def forward(self, X, P, L):
