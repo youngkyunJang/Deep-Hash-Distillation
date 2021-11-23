@@ -28,29 +28,13 @@ Example
 ```python main_DHD.py --help``` will provide detailed explanation of each argument.
 
 ## Model ZOO
-| Method  | Dataset | Backbone| Bits | mAP| Bits | mAP| Bits | mAP|
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| DHD  | ImageNet | AlexNet  | 64 | 0.721 | 64 | 0.721 | 64 | 0.721 |
-| DHD  | ImageNet | ResNet  | 64 | 0.901 | 64 | 0.721 | 64 | 0.721 |
-| DHD  | ImageNet | ViT  | 64 | 0.944 | 64 | 0.721 | 64 | 0.721 |
-| DHD  | ImageNet | DeiT  | 64 | 0.948 | 64 | 0.721 | 64 | 0.721 |
-| DHD  | ImageNet | SwinT  | 64 | 0.956 | 64 | 0.721 | 64 | 0.721 |
-
-| Method  | Dataset | Backbone| Bits | mAP|
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| DHD  | NUS-WIDE | AlexNet  | 64 | 0.820 |
-| DHD  | NUS-WIDE | ResNet  | 64 | 0.850 |
-| DHD  | NUS-WIDE | ViT  | 64 | 0.870 |
-| DHD  | NUS-WIDE | DeiT  | 64 | 0.867 |
-| DHD  | NUS-WIDE | SwinT  | 64 | 0.875 |
-
-| Method  | Dataset | Backbone| Bits | mAP|
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| DHD  | MS COCO | AlexNet  | 64 | 0.792 |
-| DHD  | MS COCO | ResNet  | 64 | 0.889 |
-| DHD  | MS COCO| ViT  | 64 | 0.939 |
-| DHD  | MS COCO | DeiT  | 64 | 0.925 |
-| DHD  | MS COCO | SwinT  | 64 | 0.945 |
+| Method  | Backbone | Dataset | Bits | Dataset | Bits | Dataset | Bits | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| DHD  | AlexNet |  ImageNet | 16 / 32 / 64 | NUS-WIDE | 16 / 32 / 64 | MS COCO | 16 / 32 / 64 |
+| DHD  | ResNet |  ImageNet | 16 / 32 / 64 | NUS-WIDE | 16 / 32 / 64 | MS COCO | 16 / 32 / 64 |
+| DHD  | ViT |  ImageNet | 16 / 32 / 64 | NUS-WIDE | 16 / 32 / 64 | MS COCO | 16 / 32 / 64 |
+| DHD  | DeiT |  ImageNet | 16 / 32 / 64 | NUS-WIDE | 16 / 32 / 64 | MS COCO | 16 / 32 / 64 |
+| DHD  | SwinT |  ImageNet | 16 / 32 / 64 | NUS-WIDE | 16 / 32 / 64 | MS COCO | 16 / 32 / 64 |
 
 ## Retrieval Results
 ImageNet
