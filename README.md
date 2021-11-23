@@ -26,3 +26,6 @@ Example
 - ```python main_DHD.py --dataset=imagenet --encoder=AlexNet --N_bits=64 --temp=0.2``` 
 
 ```python main_DHD.py --help``` will provide detailed explanation of each argument.
+
+### (TBD) Self-distilled hashing with other methods.
+We will provide self-distilled hashing learning to improve previous deep hashing algorithms.
