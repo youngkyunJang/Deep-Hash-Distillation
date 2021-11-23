@@ -28,9 +28,9 @@ Example
 ```python main_DHD.py --help``` will provide detailed explanation of each argument.
 
 ## Model ZOO
-| Method  | Dataset | Backbone| Bits | mAP|
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| DHD  | ImageNet | AlexNet  | 64 | 0.721 |
+| Method  | Dataset | Backbone| Bits | mAP| Dataset | Backbone| Bits | mAP|
+| ------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- | ------------- | ------------- |
+| DHD  | ImageNet | AlexNet  | 64 | 0.721 |ImageNet | AlexNet  | 64 | 0.721 |
 | DHD  | ImageNet | ResNet  | 64 | 0.901 |
 | DHD  | ImageNet | ViT  | 64 | 0.944 |
 | DHD  | ImageNet | DeiT  | 64 | 0.948 |
