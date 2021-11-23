@@ -53,6 +53,15 @@ Example
 | DHD  | MS COCO | DeiT  | 64 | 0.925 |
 | DHD  | MS COCO | SwinT  | 64 | 0.945 |
 
+## Retrieval Results
+ImageNet
+<p align="center"><img src="Imagenet_results.png" width="900"></p>
+NUS-WIDE
+<p align="center"><img src="Nuswide_results.png" width="900"></p>
+MS COCO
+<p align="center"><img src="Mscoco_results.png" width="900"></p>
+
+
 ### (TBD) Self-distilled hashing with other methods.
 We will provide self-distilled hashing learning to improve previous deep hashing algorithms.
 
