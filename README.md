@@ -33,6 +33,6 @@ We will provide self-distilled hashing learning to improve previous deep hashing
 ### Model ZOO
 
 | Method  | Backbone| Bits | mAP|
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | DHD  | AlexNet  | 16 | 0.657 |
 | DHD  | AlexNet  | 32 | 0.701 |
