@@ -112,7 +112,7 @@ def train(args):
     net = nn.Sequential(Baseline, H)
     net.cuda(device)
 
-    NCA_criterion = HashNCA(args.temp)
+    HP_criterion = HashProxy(args.temp)
     HD_criterion = HashDistill()
     REG_criterion = BCEQuantization(args.std)
 
@@ -146,7 +146,7 @@ def train(args):
             It = Norm(Crop(AugT(inputs)))
 
             Xt = net(It)
-            l1 = NCA_criterion(Xt, H.P, labels)
+            l1 = HP_criterion(Xt, H.P, labels)
 
             Xs = net(Is)
             l2 = HD_criterion(Xs, Xt) * args.lambda1
