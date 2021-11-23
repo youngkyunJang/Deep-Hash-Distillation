@@ -6,7 +6,7 @@ Official Pytorch implementation of "Self-Distilled Hashing"
 
 ## Overall training procedure of DHD
 
-<p align="center"><img src="Figure_framework.png" width="900"></p>
+<p align="center"><img src="figures/framework.png" width="900"></p>
 
 
 ## Requirements
@@ -55,11 +55,11 @@ Example
 
 ## Retrieval Results
 ImageNet
-<p align="center"><img src="Imagenet_results.png" width="900"></p>
+<p align="center"><img src="figures/Imagenet_results.png" width="900"></p>
 NUS-WIDE
-<p align="center"><img src="Nuswide_results.png" width="900"></p>
+<p align="center"><img src="figures/Nuswide_results.png" width="900"></p>
 MS COCO
-<p align="center"><img src="Mscoco_results.png" width="900"></p>
+<p align="center"><img src="figures/Mscoco_results.png" width="900"></p>
 
 
 ## (TBD) Self-distilled hashing with other methods.
