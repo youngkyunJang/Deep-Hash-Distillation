@@ -62,7 +62,7 @@ MS COCO
 <p align="center"><img src="Mscoco_results.png" width="900"></p>
 
 
-### (TBD) Self-distilled hashing with other methods.
+## (TBD) Self-distilled hashing with other methods.
 We will provide self-distilled hashing learning to improve previous deep hashing algorithms.
 
 
