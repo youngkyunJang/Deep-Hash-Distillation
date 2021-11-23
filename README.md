@@ -32,7 +32,12 @@ We will provide self-distilled hashing learning to improve previous deep hashing
 
 ### Model ZOO
 
-| Method  | Backbone| Bits | mAP|
-| ------------- | ------------- | ------------- | ------------- |
-| DHD  | AlexNet  | 16 | 0.657 |
-| DHD  | AlexNet  | 32 | 0.701 |
+| Method  | Dataset | Backbone| Bits | mAP|
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| DHD  | ImageNet | AlexNet  | 16 | 0.657 |
+| DHD  | ImageNet | AlexNet  | 32 | 0.701 |
+| DHD  | ImageNet | AlexNet  | 64 | 0.701 |
+| DHD  | ImageNet | AlexNet  | 16 | 0.701 |
+| DHD  | ImageNet | AlexNet  | 32 | 0.701 |
+| DHD  | ImageNet | AlexNet  | 64 | 0.701 |
+
