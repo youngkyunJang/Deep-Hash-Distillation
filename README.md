@@ -6,7 +6,7 @@ Official Pytorch implementation of "Self-Distilled Hashing"
 
 ## Overall training procedure of DHD
 
-<p align="center"><img src="Figure_framework.png" width="500"></p>
+<p align="center"><img src="Figure_framework.png" width="900"></p>
 
 
 ## Requirements
