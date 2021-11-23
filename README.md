@@ -7,4 +7,6 @@ Official Pytorch implementation of "Self-Distilled Hashing"
 ## Requirements
 
 Prepare requirements by following command.
-> pip install -r requirements.txt
+'''
+pip install -r requirements.txt
+'''
