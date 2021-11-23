@@ -27,7 +27,7 @@ Example
 
 ```python main_DHD.py --help``` will provide detailed explanation of each argument.
 
-## Model ZOO (TBD)
+## Model ZOO
 | Method  | Backbone | Dataset | Bits | Dataset | Bits | Dataset | Bits | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | DHD  | AlexNet |  ImageNet | 16 / 32 / 64 | NUS-WIDE | 16 / 32 / 64 | MS COCO | 16 / 32 / 64 |
@@ -45,7 +45,7 @@ MS COCO
 <p align="center"><img src="figures/Mscoco_results.png" width="900"></p>
 
 
-## Self-distilled hashing with other methods (TBD).
+## Self-distilled hashing with other methods.
 We will provide self-distilled hashing learning to improve previous deep hashing algorithms.
 
 
