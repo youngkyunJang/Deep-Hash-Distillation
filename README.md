@@ -32,7 +32,7 @@ We will provide self-distilled hashing learning to improve previous deep hashing
 
 ### Model ZOO
 
-| First Header  | Second Header |
+| Method  | Backbone| Bits | mAP|
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| DHD  | AlexNet  | 16 | 0.657 |
+| DHD  | AlexNet  | 32 | 0.701 |
