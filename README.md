@@ -27,17 +27,33 @@ Example
 
 ```python main_DHD.py --help``` will provide detailed explanation of each argument.
 
-### (TBD) Self-distilled hashing with other methods.
-We will provide self-distilled hashing learning to improve previous deep hashing algorithms.
-
-### Model ZOO
+### (TBD) Model ZOO
 
 | Method  | Dataset | Backbone| Bits | mAP|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| DHD  | ImageNet | AlexNet  | 16 | 0.657 |
-| DHD  | ImageNet | AlexNet  | 32 | 0.701 |
-| DHD  | ImageNet | AlexNet  | 64 | 0.701 |
-| DHD  | ImageNet | AlexNet  | 16 | 0.701 |
-| DHD  | ImageNet | AlexNet  | 32 | 0.701 |
-| DHD  | ImageNet | AlexNet  | 64 | 0.701 |
+| DHD  | ImageNet | AlexNet  | 64 | 0.721 |
+| DHD  | ImageNet | ResNet  | 64 | 0.901 |
+| DHD  | ImageNet | ViT  | 64 | 0.944 |
+| DHD  | ImageNet | DeiT  | 64 | 0.948 |
+| DHD  | ImageNet | SwinT  | 64 | 0.956 |
+
+| Method  | Dataset | Backbone| Bits | mAP|
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| DHD  | NUS-WIDE | AlexNet  | 64 | 0.820 |
+| DHD  | NUS-WIDE | ResNet  | 64 | 0.850 |
+| DHD  | NUS-WIDE | ViT  | 64 | 0.870 |
+| DHD  | NUS-WIDE | DeiT  | 64 | 0.867 |
+| DHD  | NUS-WIDE | SwinT  | 64 | 0.875 |
+
+| Method  | Dataset | Backbone| Bits | mAP|
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| DHD  | MS COCO | AlexNet  | 64 | 0.792 |
+| DHD  | MS COCO | ResNet  | 64 | 0.889 |
+| DHD  | MS COCO| ViT  | 64 | 0.939 |
+| DHD  | MS COCO | DeiT  | 64 | 0.925 |
+| DHD  | MS COCO | SwinT  | 64 | 0.945 |
+
+### (TBD) Self-distilled hashing with other methods.
+We will provide self-distilled hashing learning to improve previous deep hashing algorithms.
+
 
