@@ -17,6 +17,6 @@ pip install -r requirements.txt
 ```
 
 ## Train DHD models
-### Prepare datasets (TBD)
-We use public benchmark datasets: ImageNet, NUS-WIDE, MS COCO.
+### Prepare datasets
+We use public benchmark datasets: ImageNet, NUS-WIDE, MS COCO.  
 Image file name and corresponding labels are provided in ```./data```.
