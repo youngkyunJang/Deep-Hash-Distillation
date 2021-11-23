@@ -28,13 +28,13 @@ Example
 ```python main_DHD.py --help``` will provide detailed explanation of each argument.
 
 ## Model ZOO
-| Method  | Dataset | Backbone| Bits | mAP|
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| DHD  | ImageNet | AlexNet  | 64 | 0.721 |
-| DHD  | ImageNet | ResNet  | 64 | 0.901 |
-| DHD  | ImageNet | ViT  | 64 | 0.944 |
-| DHD  | ImageNet | DeiT  | 64 | 0.948 |
-| DHD  | ImageNet | SwinT  | 64 | 0.956 |
+| Method  | Dataset | Backbone| Bits | mAP| Bits | mAP| Bits | mAP|
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| DHD  | ImageNet | AlexNet  | 64 | 0.721 | 64 | 0.721 | 64 | 0.721 |
+| DHD  | ImageNet | ResNet  | 64 | 0.901 | 64 | 0.721 | 64 | 0.721 |
+| DHD  | ImageNet | ViT  | 64 | 0.944 | 64 | 0.721 | 64 | 0.721 |
+| DHD  | ImageNet | DeiT  | 64 | 0.948 | 64 | 0.721 | 64 | 0.721 |
+| DHD  | ImageNet | SwinT  | 64 | 0.956 | 64 | 0.721 | 64 | 0.721 |
 
 | Method  | Dataset | Backbone| Bits | mAP|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
