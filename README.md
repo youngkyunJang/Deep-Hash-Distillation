@@ -27,7 +27,7 @@ Example
 
 ```python main_DHD.py --help``` will provide detailed explanation of each argument.
 
-### (TBD) Model ZOO
+## (TBD) Model ZOO
 
 | Method  | Dataset | Backbone| Bits | mAP|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
