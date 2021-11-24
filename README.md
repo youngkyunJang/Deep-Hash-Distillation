@@ -36,7 +36,9 @@ Example
 | DHD  | DeiT |  ImageNet | 16 / 32 / 64 | NUS-WIDE | 16 / 32 / 64 | MS COCO | 16 / 32 / 64 |
 | DHD  | SwinT |  ImageNet | 16 / 32 / 64 | NUS-WIDE | 16 / 32 / 64 | MS COCO | 16 / 32 / 64 |
 
-## Retrieval Results
+## Retrieval Results with Different Backbone
+S: Swin Transformer, R: ResNet, A: AlexNet
+
 ImageNet
 <p align="center"><img src="figures/Imagenet_results.png" width="900"></p>
 NUS-WIDE
