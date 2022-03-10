@@ -1,6 +1,6 @@
-# Self-Distilled-Hashing for Deep Image Retrieval
+# Deep Hash Distillation for Image Retrieval
 
-Official Pytorch implementation of "Self-Distilled Hashing for Deep Image Retrieval"
+Official Pytorch implementation of "Deep Hash Distillation for Image Retrieval"
 
 *This repository is anonymized for double-blind review.*
 
