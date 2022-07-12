@@ -36,7 +36,3 @@ MS COCO
 <p align="center"><img src="figures/Mscoco_results.png" width="900"></p>
 
 
-## Self-distilled hashing with other methods.
-We will provide self-distilled hashing learning to improve previous deep hashing algorithms.
-
-
