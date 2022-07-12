@@ -25,15 +25,6 @@ Example
 
 ```python main_DHD.py --help``` will provide detailed explanation of each argument.
 
-## Model ZOO
-| Method  | Backbone | Dataset | Bits | Dataset | Bits | Dataset | Bits | 
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| DHD  | AlexNet |  ImageNet | 16 / 32 / 64 | NUS-WIDE | 16 / 32 / 64 | MS COCO | 16 / 32 / 64 |
-| DHD  | ResNet |  ImageNet | 16 / 32 / 64 | NUS-WIDE | 16 / 32 / 64 | MS COCO | 16 / 32 / 64 |
-| DHD  | ViT |  ImageNet | 16 / 32 / 64 | NUS-WIDE | 16 / 32 / 64 | MS COCO | 16 / 32 / 64 |
-| DHD  | DeiT |  ImageNet | 16 / 32 / 64 | NUS-WIDE | 16 / 32 / 64 | MS COCO | 16 / 32 / 64 |
-| DHD  | SwinT |  ImageNet | 16 / 32 / 64 | NUS-WIDE | 16 / 32 / 64 | MS COCO | 16 / 32 / 64 |
-
 ## Retrieval Results with Different Backbone
 S: Swin Transformer, R: ResNet, A: AlexNet
 
