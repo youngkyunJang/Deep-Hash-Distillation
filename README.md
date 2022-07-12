@@ -2,8 +2,6 @@
 
 Official Pytorch implementation of "Deep Hash Distillation for Image Retrieval"
 
-*This repository is anonymized for double-blind review.*
-
 ## Overall training procedure of DHD
 
 <p align="center"><img src="figures/framework.png" width="900"></p>
