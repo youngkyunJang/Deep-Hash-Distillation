@@ -1,4 +1,4 @@
-# Deep Hash Distillation for Image Retrieval
+# Deep Hash Distillation for Image Retrieval (Cont'd)
 
 Official Pytorch implementation of "Deep Hash Distillation for Image Retrieval" Accepted to ECCV2022
 
