@@ -16,12 +16,14 @@ pip install -r requirements.txt
 
 ## Train DHD models
 ### Prepare datasets
-We use public benchmark datasets: ImageNet, NUS-WIDE, MS COCO.  
+We use public benchmark datasets: ImageNet, NUS-WIDE, MS COCO. 
 Image file name and corresponding labels are provided in ```./data```.
 
 Datasets can be downloaded here:
 <a href="https://drive.google.com/file/d/1TAjFKnOEse4xU_ScZOM8NgQLGexebmRn/view?usp=share_link">NUS-WIDE</a> /
 <a href="https://drive.google.com/file/d/1EsRZP3YsLbkbJ9rNXA4x5BFkHVFIGlQP/view?usp=share_link">MS COCO</a>
+
+For ImageNet, please download through official website <a href="https://www.image-net.org/download.php">ImageNet</a> and follow our data configuration.
 
 Example
 - Train DHD model with ImageNet, AlexNet backbone, 64-bit, temperature scaling with 0.2
