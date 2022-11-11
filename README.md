@@ -41,3 +41,13 @@ MS COCO
 <p align="center"><img src="figures/Mscoco_results.png" width="900"></p>
 
 
+## Citation
+```
+@inproceedings{DHD,
+  title={Deep Hash Distillation for Image Retrieval},
+  author={Young Kyun Jang, Geonmo Gu, Byungsoo Ko, Isaac Kang, Nam Ik Cho},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2022}
+}
+```
+
