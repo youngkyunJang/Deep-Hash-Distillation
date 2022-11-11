@@ -1,4 +1,4 @@
-# Deep Hash Distillation for Image Retrieval (Cont'd)
+# Deep Hash Distillation for Image Retrieval
 
 Official Pytorch implementation of "Deep Hash Distillation for Image Retrieval" Accepted to ECCV2022 - <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740345.pdf">DHD</a> 
 
