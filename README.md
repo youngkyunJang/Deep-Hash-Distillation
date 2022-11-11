@@ -21,7 +21,6 @@ Image file name and corresponding labels are provided in ```./data```.
 
 Datasets can be downloaded here:
 <a href="https://drive.google.com/file/d/1TAjFKnOEse4xU_ScZOM8NgQLGexebmRn/view?usp=share_link">NUS-WIDE</a>
-
 <a href="https://drive.google.com/file/d/1EsRZP3YsLbkbJ9rNXA4x5BFkHVFIGlQP/view?usp=share_link">MS COCO</a>
 
 Example
